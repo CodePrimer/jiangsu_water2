@@ -1,0 +1,30 @@
+ GEOMETRICAL CONDITIONS:
+ -----------------------
+   IGEOM is in the range 0-7, igeom =   
+ YOUR OWN CONDITIONS:
+ --------------------
+   asol (solar zenith angle) =     phi0 (solar azimuth angle) =     avis (satellite zenith angle) =     phiv (satellite azimuth angle) =     month (month) =     jday (day) =   
+ ATMOSPHERIC MODEL:
+ ------------------
+   idatm (0-8) =   
+ AEROSOL MODEL (TYPE).
+ ---------------------
+   iaer (0-12) =   
+ AEROSOL MODEL (CONCENTRATION).
+ ------------------------------
+   v (visibility) =   
+ XPS is to express the altitude of target.
+   xps (in km) =   
+ XPP is to express the sensor altitude.
+   xpp =   
+ ENTER THE SPECTRAL CONDITIONS:
+ ------------------------------
+   iwave (-1 to 34, see introduction for details) =     wlinf (sub-limit of the filter function) =     wlsup (sup-limit of the filter function) =   
+ GROUNRD REFLECTANCE (TYPE)
+ --------------------------
+   inhomo (0-1) =   idirec: idirec = 0, no directional effect; idirec = 1, has directional effect.
+   idirec =     igroun =   
+ RAPP is a parameter allows to activate atmosphec correction mode.
+   rapp = 
+Stop - Program terminated.
+
